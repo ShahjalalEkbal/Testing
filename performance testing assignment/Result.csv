@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1665554107303,1011,https://reqres.in/api/users?page=2,200,OK,Thread Group 1-1,text,true,,1748,375,1,1,https://reqres.in/api/users?page=2,999,0,924
+1665554108319,428,https://reqres.in/api/users,201,Created,Thread Group 1-1,text,true,,741,423,1,1,https://reqres.in/api/users,428,0,0
+1665554108748,430,https://reqres.in/api/users/2,200,OK,Thread Group 1-1,text,true,,737,431,1,1,https://reqres.in/api/users/2,430,0,0
+1665554109179,436,https://reqres.in/api/users/2,200,OK,Thread Group 1-1,text,true,,693,391,1,1,https://reqres.in/api/users/2,436,0,0
+1665554109618,426,https://reqres.in/api/users/2,204,No Content,Thread Group 1-1,,true,,612,392,1,1,https://reqres.in/api/users/2,0,0,0
+1665554110045,433,https://reqres.in/api/login,400,Bad Request,Thread Group 1-1,text,false,,696,413,1,1,https://reqres.in/api/login,433,0,0
+1665554110482,3442,https://reqres.in/api/users?delay=3,200,OK,Thread Group 1-1,text,true,,1653,376,1,1,https://reqres.in/api/users?delay=3,3442,0,0
+1665554107210,6606,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-1,,false,,6880,2801,1,1,null,6168,109,924
