@@ -1,0 +1,192 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "doubleClickRightClick",
+    "uid" : "19cf72f53ed61f49",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1666898691231,
+      "stop" : 1666898691234,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "selectingValueFromDropdown",
+    "uid" : "68dc8bc2f77d3563",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1666898691345,
+      "stop" : 1666898691345,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "selectingMultipleValueFromDropdown",
+    "uid" : "86c93c6959cc8747",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1666898691350,
+      "stop" : 1666898691350,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "locatorlearning",
+    "uid" : "21de5103d8e9be52",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666898691396,
+      "stop" : 1666898705168,
+      "duration" : 13772
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyPageTitle_shouldPass",
+    "uid" : "6594a6be80c11b49",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666898705175,
+      "stop" : 1666898715982,
+      "duration" : 10807
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "isWebSiteSecured",
+    "uid" : "d67ac51e9ba04aa5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666898715988,
+      "stop" : 1666898715995,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "checkBoxAndRadioButtonInIFrame",
+    "uid" : "48429070a58a894f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666898716001,
+      "stop" : 1666898727088,
+      "duration" : 11087
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "KeyboardEventCheck",
+    "uid" : "d0aa962aa59b0fce",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666898727100,
+      "stop" : 1666898744506,
+      "duration" : 17406
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "refreshPage",
+    "uid" : "589755e61cbfc712",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666898744520,
+      "stop" : 1666898764441,
+      "duration" : 19921
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "scrollCheck",
+    "uid" : "770ea54ef3bbc01f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666898764464,
+      "stop" : 1666898784243,
+      "duration" : 19779
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "sliderCheck",
+    "uid" : "7df72f3147bbd3cd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666898784249,
+      "stop" : 1666898806884,
+      "duration" : 22635
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ]
+}

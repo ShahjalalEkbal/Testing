@@ -1,0 +1,66 @@
+{
+  "uid" : "86c93c6959cc8747",
+  "name" : "selectingMultipleValueFromDropdown",
+  "fullName" : "testcases.TC003_DropDown.selectingMultipleValueFromDropdown",
+  "historyId" : "ce06e8613d9c81cbea3ee0597f042a3b",
+  "time" : {
+    "start" : 1666898691350,
+    "stop" : 1666898691350,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.TC003_DropDown"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.TC003_DropDown"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectingMultipleValueFromDropdown"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.TC003_DropDown"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-J0EP6N8"
+  }, {
+    "name" : "thread",
+    "value" : "2232@DESKTOP-J0EP6N8.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86c93c6959cc8747.json",
+  "parameterValues" : [ ]
+}
